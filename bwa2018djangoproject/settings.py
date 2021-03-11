@@ -97,10 +97,10 @@ DATABASES = {
 
         # If your group uses PostgreSQL comment out two lines under this,
         # and add other needed settings.
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'bwa2018djangoproject',
-        'USER': 'bwa_project_group',
-        'PASSWORD': 'bwa2018!',
+        'ENGINE': 'ec2-3-222-11-129.compute-1.amazonaws.com',
+        'NAME': 'dfdi57ugr3nmea',
+        'USER': 'olbjfentqukedi',
+        'PASSWORD': '0c3fc1daaa151d553c8ab5a46c60968de530de06911663c6e35cb96d185d046c',
         # if you want to define user, password etc.
         # do it here
     }
